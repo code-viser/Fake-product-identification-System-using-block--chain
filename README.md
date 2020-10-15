@@ -11,9 +11,11 @@ Blockchain is conceptually completely new and the best way to learn it is by doi
  Here we are using Block-chain because unlike a normal database, Blockchain has a non-destructive (immutable) way to track data changes over time. This means that data is not editable rather, whenever updates are made, a new block is added to the “block-chain”. This helps track historical data (authenticity and owner data) of a product.
  
  
-->Each product has a qr code to store the details about the product  
-->When a user addds the product to blockchain a node created and a hash is generated for that particular node
-->So when a user scans the particular qr code it's hash is verified with blockchain's hash,based on that it decides it is genuine or not
+Each product has a qr code to store the details about the product.
+
+When a user addds the product to blockchain a node created and a hash is generated for that particular node.
+
+So when a user scans the particular qr code it's hash is verified with blockchain's hash,based on that it decides it is genuine or not.
  
 
 # Limitations
