@@ -6,6 +6,7 @@ Blockchain is conceptually completely new and the best way to learn it is by doi
 
 
 
+
 # About Project
  Here we are using Block-chain because unlike a normal database, Blockchain has a non-destructive (immutable) way to track data changes over time. This means that data is not editable rather, whenever updates are made, a new block is added to the “block-chain”. This helps track historical data (authenticity and owner data) of a product.
  
