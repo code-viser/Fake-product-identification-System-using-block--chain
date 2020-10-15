@@ -13,7 +13,7 @@ Blockchain is conceptually completely new and the best way to learn it is by doi
  
 Each product has a qr code to store the details about the product.
 
-When a user addds the product to blockchain a node created and a hash is generated for that particular node.
+When a user adds the product to blockchain a node created and a hash is generated for that particular node.
 
 So when a user scans the particular qr code it's hash is verified with blockchain's hash,based on that it decides it is genuine or not.
  
