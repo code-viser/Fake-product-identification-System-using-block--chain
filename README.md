@@ -4,7 +4,7 @@ Blockchain is an emergent technology evolving at a fast pace. There is a lot of 
 
 Blockchain is conceptually completely new and the best way to learn it is by doing hands-on than just going through documents and watching videos. Below are some blockchain project ideas that will suit beginners and students
 
-
+![alt tag]
 
 
 # About Project
